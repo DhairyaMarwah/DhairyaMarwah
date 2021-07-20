@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/marwahdhairya" target="blank"><img src="https://img.shields.io/twitter/follow/marwahdhairya?logo=twitter&style=for-the-badge" alt="marwahdhairya" /></a> </p>
 <img align="right" alt="Coding" width="400" src="proggif.gif" /> 
+<br>
 
 - 🔭 I’m currently working on **my designing skills**
 
