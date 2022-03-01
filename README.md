@@ -26,6 +26,10 @@
 
 - ⚡ Fun fact **I'm starting to wonder if there are more client side Javascript frameworks than there are apps that use them.**
 
+
+![snake gif](https://github.com/DhairyaMarwah/DhairyaMarwah/blob/output/github-contribution-grid-snake.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@dhairyamarwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@dhairyamarwah" height="30" width="40" /></a>
