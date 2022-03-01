@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Marwah</h1>
-<h3 align="center">Front End Developer with a keen eye for detail.</h3>
+<h3 align="center">React JS Developer with a keen eye for detail.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyamarwah&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyamarwah" /> </p>
 
@@ -8,13 +8,13 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **my designing skills**
+-  <h3> 🔭 I’m currently working on UI/UX</h3>
 
-- 🌱 I’m currently learning **React JS**
+- <h3> 🌱 I’m currently learning Redux</h3>
 
-- 👯 I’m looking to collaborate on **open source**
+- <h3> 👯 I’m looking to collaborate on open source</h3>
 
-- 🤝 I’m looking for help with **Backend skills**
+- <h3> 🤝 I’m looking for help with Backend</h3>
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1EQ0f0-nu92GMK57r7JPOc8dFMFfmOB6x8fdDthvk5Rc/edit?usp=sharing](https://docs.google.com/document/d/1EQ0f0-nu92GMK57r7JPOc8dFMFfmOB6x8fdDthvk5Rc/edit?usp=sharing)
 
@@ -26,6 +26,8 @@
 
 - ⚡ Fun fact **I'm starting to wonder if there are more client side Javascript frameworks than there are apps that use them.**
 
+<h1> Having a Work-Life balance be like :</h1>
+<p align="right">Snake eating my contributions graph (live)<p>
 
 ![snake gif](https://github.com/DhairyaMarwah/DhairyaMarwah/blob/output/github-contribution-grid-snake.gif)
 
