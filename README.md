@@ -1,36 +1,35 @@
-<h1 align="center">Hi 👋, I'm Dhairya Marwah</h1>
-<h3 align="center">React JS Developer with a keen eye for detail.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyamarwah&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyamarwah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/marwahdhairya" target="blank"><img src="https://img.shields.io/twitter/follow/marwahdhairya?logo=twitter&style=for-the-badge" alt="marwahdhairya" /></a> </p>
+### Hey 👋🏻, I'm [Dhairya Marwah!](https://dhairya.vercel.app/) 
+Developer with a keen eye for detail
+
+
 <img align="right" alt="Coding" width="400" src="output-onlinegiftools.gif" /> 
 <br>
 <br>
 
--  <h3> 🔭 I’m currently working on UI/UX</h3>
+- 🔭 I’m currently working on WEB3
 
-- <h3> 🌱 I’m currently learning Redux</h3>
+- 🌱 I’m currently learning Redux 
 
-- <h3> 👯 I’m looking to collaborate on open source</h3>
+- 👯 I’m looking to collaborate on open source projects 
 
-- <h3> 🤝 I’m looking for help with Backend</h3>
-
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1EQ0f0-nu92GMK57r7JPOc8dFMFfmOB6x8fdDthvk5Rc/edit?usp=sharing](https://docs.google.com/document/d/1EQ0f0-nu92GMK57r7JPOc8dFMFfmOB6x8fdDthvk5Rc/edit?usp=sharing)
-
-- 💬 Ask me about **Front End related queries**
+- 💬 Ask me about **Development related queries**
 
 - 📫 How to reach me **dhairyamarwah01@gmail.com**
 
-- 📑 know about my experiences [https://drive.google.com/file/d/1f5sI3TSuuY4UqySWeTW3R3Kq2b_slqz7/view?usp=sharing](https://drive.google.com/file/d/1f5sI3TSuuY4UqySWeTW3R3Kq2b_slqz7/view?usp=sharing)
+- 📑 know about my experiences **https://www.linkedin.com/in/dhairyamarwah/**
 
 - ⚡ Fun fact **I'm starting to wonder if there are more client side Javascript frameworks than there are apps that use them.**
 
-<h1> Having a Work-Life balance be like :</h1>
+<br>
+<br>
+Having a Work-Life balance be like :
 <p align="right">Snake eating my contributions graph <span color="green"> (live) </span><p>
 
 ![snake gif](https://github.com/DhairyaMarwah/DhairyaMarwah/blob/output/github-contribution-grid-snake.gif)
-
+<br>
+<br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -55,3 +54,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyamarwah&show_icons=true&locale=en" alt="dhairyamarwah" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamarwah&" alt="dhairyamarwah" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyamarwah&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyamarwah" /> </p>
+
+<p align="left"> <a href="https://twitter.com/marwahdhairya" target="blank"><img src="https://img.shields.io/twitter/follow/marwahdhairya?logo=twitter&style=for-the-badge" alt="marwahdhairya" /></a> </p>
