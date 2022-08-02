@@ -22,12 +22,7 @@ Developer with a keen eye for detail
 
 <br>
 <br>
-Having a Work-Life balance be like :
-<p align="right">Snake eating my contributions graph <span color="green"> (live) </span><p>
-
-![snake gif](https://github.com/DhairyaMarwah/DhairyaMarwah/blob/output/github-contribution-grid-snake.gif)
-<br>
-<br>
+ 
 
 Connect with me :
 
