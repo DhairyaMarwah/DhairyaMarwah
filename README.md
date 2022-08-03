@@ -2,7 +2,7 @@
 
 Developer with a keen eye for detail
 
-<img align="right" alt="Coding" width="400" src="video.mp4" /> 
+<img align="right" alt="Coding" width="400" src="output-onlinegiftools.gif" /> 
 <br>
 <br>
 
