@@ -1,6 +1,8 @@
 ### Hey 👋🏻, I'm [Dhairya Marwah!](https://dhairya.vercel.app/)
 
-Developer with a keen eye for detail
+Self-taught software developer with in-depth knowledge of development methodologies
+
+**Portfolio** : https://dhairya.dev/
 
 <img align="right" alt="Coding" width="400" src="output-onlinegiftools.gif" /> 
 <br>
